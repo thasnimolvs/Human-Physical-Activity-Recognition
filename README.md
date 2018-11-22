@@ -1,11 +1,10 @@
 # Human-Physical-Activity-Recognition
 
-Recognition of human physical activities using smartphone data have a variety of applications in fitness, tracking, and healthcare monitoring. Since a smartphone is one of the most widespread portable device, performing human activity recognition on it is more powerful than ever. This repo reports the results of a linear discriminant classifier and a multilayer perceptron classifying 6 human activities using 516 handcrafted features created from accelerometer and gyroscope triaxial data on a smartphone, along with a subset of features selected from it. Test accuracies of 97.83% and 95.18% were obtained using linear discriminant classifier and the MLP respectively. However, this will not be computationally feasible on a smartphone. So heuristic forward feature selection was used with the LDA classifier to select 10 high performing features. These hand-crafted features were constraint to the time domain and ease of computation. Using these 10 features, the MLP obtained the higher test accuracy of 92.23% as compared to 90.84% using LDA. 
+This repo reports the results of a linear discriminant classifier and a multilayer perceptron classifying 6 human activities using 516 handcrafted features created from accelerometer and gyroscope triaxial data on a smartphone, along with a subset of features selected from it. Test accuracies of 97.83% and 95.18% were obtained using linear discriminant classifier and the MLP respectively. However, this will not be computationally feasible on a smartphone. So heuristic forward feature selection was used with the LDA classifier to select 10 high performing features. These hand-crafted features were constraint to the time domain and ease of computation. Using these 10 features, the MLP obtained the higher test accuracy of 92.23% as compared to 90.84% using LDA. 
 
-Note: Training set is too large to be uploaded. 
-
-The dataset is available at:
+The dataset is available at (move into root before running):
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
 
 Classification using all 561 handcrafted features (Multilayer peceptron): 
 
