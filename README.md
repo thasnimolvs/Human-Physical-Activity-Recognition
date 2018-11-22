@@ -13,7 +13,7 @@ scikit learn 0.19.1, Keras 2.1.5, Numpy 1.14.2, matplotlib 2.1.0, mlxtend 0.11.0
 
 
 
-https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd.png
+![alt text](https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd.png)
 
 
 
