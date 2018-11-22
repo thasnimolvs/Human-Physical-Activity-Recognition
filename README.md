@@ -8,26 +8,16 @@ Python compiler required: Python 3.6.1
 
 Libraries used:
 
-scikit learn 0.19.1:
-	pip3 install scikit-learn
+scikit learn 0.19.1, Keras 2.1.5, Numpy 1.14.2, matplotlib 2.1.0, mlxtend 0.11.0, h5py 2.7.1
 
-Keras 2.1.5
-	pip3 install keras
 
-Numpy 1.14.2
-	pip3 install numpy
 
-matplotlib 2.1.0
-	pip3 install matplotlib
 
-mlxtend 0.11.0
-	pip3 install mlxtend
+https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd.png
 
-h5py 2.7.1
-	pip3 install h5py
 
-OS, JSON, Time, random
-	Should already be install with python
+
+
 
 
 
