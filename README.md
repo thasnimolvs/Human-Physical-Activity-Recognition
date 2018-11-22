@@ -4,21 +4,8 @@ Note: Training set is too large to be uploaded.
 The dataset is available at:
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
-Python compiler required: Python 3.6.1 
-
-Libraries used:
-
-scikit learn 0.19.1, Keras 2.1.5, Numpy 1.14.2, matplotlib 2.1.0, mlxtend 0.11.0, h5py 2.7.1
-
-
-
 
 ![alt text](https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd.png)
-
-
-
-
-
 
 
 FILE DESCRIPTIONS:
