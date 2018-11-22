@@ -11,7 +11,7 @@ Classification using all 561 handcrafted features (Multilayer peceptron):
 ![alt text](https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_train_all.png)
 
 Classification using  10 handcrafted features (Multilayer peceptron): 
-![alt text] (https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd_test.png)
+![alt text](https://github.com/sid-sundrani/Human-Physical-Activity-Recognition/blob/master/Confusion%20Matrices/MLP_fsd_test.png)
 
 
 FILE DESCRIPTIONS:
