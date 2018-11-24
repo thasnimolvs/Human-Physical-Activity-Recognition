@@ -21,8 +21,6 @@ mlxtend 0.11.0
 h5py 2.7.1
 	pip3 install h5py
 
-OS, JSON, Time, random
-	Should already be install with python
 
 
 
